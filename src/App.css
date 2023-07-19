@@ -1,1 +1,10 @@
 
+.bg-myred{
+    background-color: aqua;
+    display: inline-block;
+}
+.content{
+    padding: 12px;
+    height: 100px;
+    margin-top: 40px;
+}
