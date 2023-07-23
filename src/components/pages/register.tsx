@@ -1,7 +1,6 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
-export const register = () => {
+export const Register = () => {
   return (
     <>
       <div>register</div>

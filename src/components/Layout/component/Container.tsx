@@ -1,9 +1,14 @@
 import library from "../../../assets/library.jpg";
 export const Container = () => {
   return (
-    // <div className="flex bg-neutral-600 text-white h-80 justify-center"></div>
-    <div>
-      <img src={library} className="w-full h-full" />
-    </div>
+    <>
+      <div className="bg-[url('/home/nimasha/Project/library_management_system/src/assets/')]"></div>
+      <>
+        <div className="flex text-white justify-center"></div>
+        <div>
+          <img src={library} className="w-full h-full" />
+        </div>
+      </>
+    </>
   );
 };
