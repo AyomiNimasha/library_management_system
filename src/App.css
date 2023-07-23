@@ -13,3 +13,16 @@
 .right-aligned{
     justify-content: flex-end;
 }
+.footer{
+    flex-direction:column;
+    background-color: blue;
+    align-items: center;
+    
+}
+.sidebar{
+    flex: auto;
+    background-color: blueviolet;
+    width: 200px;
+    height:1000px;
+
+}
